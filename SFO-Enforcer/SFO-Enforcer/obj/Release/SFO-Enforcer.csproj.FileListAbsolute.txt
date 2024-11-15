@@ -1,0 +1,10 @@
+C:\Users\EternalModz\source\repos\SFO-Enforcer\SFO-Enforcer\bin\Release\SFO-Enforcer.exe.config
+C:\Users\EternalModz\source\repos\SFO-Enforcer\SFO-Enforcer\bin\Release\SFO-Enforcer.exe
+C:\Users\EternalModz\source\repos\SFO-Enforcer\SFO-Enforcer\bin\Release\SFO-Enforcer.pdb
+C:\Users\EternalModz\source\repos\SFO-Enforcer\SFO-Enforcer\obj\Release\SFO-Enforcer.csproj.AssemblyReference.cache
+C:\Users\EternalModz\source\repos\SFO-Enforcer\SFO-Enforcer\obj\Release\SFO_Enforcer.mainForm.resources
+C:\Users\EternalModz\source\repos\SFO-Enforcer\SFO-Enforcer\obj\Release\SFO_Enforcer.Properties.Resources.resources
+C:\Users\EternalModz\source\repos\SFO-Enforcer\SFO-Enforcer\obj\Release\SFO-Enforcer.csproj.GenerateResource.cache
+C:\Users\EternalModz\source\repos\SFO-Enforcer\SFO-Enforcer\obj\Release\SFO-Enforcer.csproj.CoreCompileInputs.cache
+C:\Users\EternalModz\source\repos\SFO-Enforcer\SFO-Enforcer\obj\Release\SFO-Enforcer.exe
+C:\Users\EternalModz\source\repos\SFO-Enforcer\SFO-Enforcer\obj\Release\SFO-Enforcer.pdb

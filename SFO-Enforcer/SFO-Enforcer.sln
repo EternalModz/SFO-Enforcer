@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFO-Enforcer", "SFO-Enforcer\SFO-Enforcer.csproj", "{88D7194C-1469-4C20-B428-D5D7D0E1C13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D7194C-1469-4C20-B428-D5D7D0E1C13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D7194C-1469-4C20-B428-D5D7D0E1C13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D7194C-1469-4C20-B428-D5D7D0E1C13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D7194C-1469-4C20-B428-D5D7D0E1C13D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED752376-466A-432D-9DB3-35048A1C7935}
+	EndGlobalSection
+EndGlobal

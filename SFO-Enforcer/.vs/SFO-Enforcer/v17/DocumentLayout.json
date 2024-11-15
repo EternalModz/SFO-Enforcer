@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D7194C-1469-4C20-B428-D5D7D0E1C13D}|SFO-Enforcer\\SFO-Enforcer.csproj|c:\\users\\eternalmodz\\source\\repos\\sfo-enforcer\\sfo-enforcer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D7194C-1469-4C20-B428-D5D7D0E1C13D}|SFO-Enforcer\\SFO-Enforcer.csproj|solutionrelative:sfo-enforcer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D7194C-1469-4C20-B428-D5D7D0E1C13D}|SFO-Enforcer\\SFO-Enforcer.csproj|C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\sfo-enforcer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88D7194C-1469-4C20-B428-D5D7D0E1C13D}|SFO-Enforcer\\SFO-Enforcer.csproj|solutionrelative:sfo-enforcer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D7194C-1469-4C20-B428-D5D7D0E1C13D}|SFO-Enforcer\\SFO-Enforcer.csproj|C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\sfo-enforcer\\classes\\darkmode\\darkmodecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D7194C-1469-4C20-B428-D5D7D0E1C13D}|SFO-Enforcer\\SFO-Enforcer.csproj|solutionrelative:sfo-enforcer\\classes\\darkmode\\darkmodecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SFO-Enforcer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D7194C-1469-4C20-B428-D5D7D0E1C13D}|SFO-Enforcer\\SFO-Enforcer.csproj|C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\sfo-enforcer\\classes\\sfoentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D7194C-1469-4C20-B428-D5D7D0E1C13D}|SFO-Enforcer\\SFO-Enforcer.csproj|solutionrelative:sfo-enforcer\\classes\\sfoentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D7194C-1469-4C20-B428-D5D7D0E1C13D}|SFO-Enforcer\\SFO-Enforcer.csproj|C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\sfo-enforcer\\classes\\sfoworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D7194C-1469-4C20-B428-D5D7D0E1C13D}|SFO-Enforcer\\SFO-Enforcer.csproj|solutionrelative:sfo-enforcer\\classes\\sfoworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D7194C-1469-4C20-B428-D5D7D0E1C13D}|SFO-Enforcer\\SFO-Enforcer.csproj|C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\sfo-enforcer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D7194C-1469-4C20-B428-D5D7D0E1C13D}|SFO-Enforcer\\SFO-Enforcer.csproj|solutionrelative:sfo-enforcer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D7194C-1469-4C20-B428-D5D7D0E1C13D}|SFO-Enforcer\\SFO-Enforcer.csproj|C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\sfo-enforcer\\classes\\entryformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D7194C-1469-4C20-B428-D5D7D0E1C13D}|SFO-Enforcer\\SFO-Enforcer.csproj|solutionrelative:sfo-enforcer\\classes\\entryformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DarkModeCS.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\Classes\\darkMode\\DarkModeCS.cs",
+              "RelativeDocumentMoniker": "SFO-Enforcer\\Classes\\darkMode\\DarkModeCS.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\Classes\\darkMode\\DarkModeCS.cs",
+              "RelativeToolTip": "SFO-Enforcer\\Classes\\darkMode\\DarkModeCS.cs",
+              "ViewState": "AQIAAMsBAAAAAAAAAAAhwN4BAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:16:22.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SFO-Enforcer",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\SFO-Enforcer.csproj",
+              "RelativeDocumentMoniker": "SFO-Enforcer\\SFO-Enforcer.csproj",
+              "ToolTip": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\SFO-Enforcer.csproj",
+              "RelativeToolTip": "SFO-Enforcer\\SFO-Enforcer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T22:11:28.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sfoEntry.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\Classes\\sfoEntry.cs",
+              "RelativeDocumentMoniker": "SFO-Enforcer\\Classes\\sfoEntry.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\Classes\\sfoEntry.cs",
+              "RelativeToolTip": "SFO-Enforcer\\Classes\\sfoEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:39:50.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sfoWorker.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\Classes\\sfoWorker.cs",
+              "RelativeDocumentMoniker": "SFO-Enforcer\\Classes\\sfoWorker.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\Classes\\sfoWorker.cs",
+              "RelativeToolTip": "SFO-Enforcer\\Classes\\sfoWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:39:42.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "entryFormat.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\Classes\\entryFormat.cs",
+              "RelativeDocumentMoniker": "SFO-Enforcer\\Classes\\entryFormat.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\Classes\\entryFormat.cs",
+              "RelativeToolTip": "SFO-Enforcer\\Classes\\entryFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:39:36.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainForm.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\mainForm.cs",
+              "RelativeDocumentMoniker": "SFO-Enforcer\\mainForm.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\mainForm.cs",
+              "RelativeToolTip": "SFO-Enforcer\\mainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:39:25.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\Program.cs",
+              "RelativeDocumentMoniker": "SFO-Enforcer\\Program.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\Program.cs",
+              "RelativeToolTip": "SFO-Enforcer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:39:09.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\mainForm.cs",
+              "RelativeDocumentMoniker": "SFO-Enforcer\\mainForm.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\source\\repos\\SFO-Enforcer\\SFO-Enforcer\\mainForm.cs [Design]",
+              "RelativeToolTip": "SFO-Enforcer\\mainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:37:53.918Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
