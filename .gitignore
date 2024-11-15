@@ -1,0 +1,42 @@
+# Ignore the build output directory
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.pdb
+*.dbmdl
+
+# Microsoft Azure Web Apps publish folder
+publish/
+
+# Windows Installer files
+*.vspscc
+.vsconfig
+
+# Rider IDE files
+.idea/
+
+# ReSharper files
+_ReSharper*/
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files from Visual Studio Code
+.vscode/
+
+# Windows Installer files
+*.pdb
